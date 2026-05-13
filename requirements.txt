@@ -1,0 +1,5 @@
+required libraries
+
+pandas
+matplotlib
+numpy
